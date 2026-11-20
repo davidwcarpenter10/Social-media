@@ -85,13 +85,15 @@ Use one idea per beat, because most viewers watch muted.
 
 ---
 
-## 4. Memorial Ornament insignia check: NOT VERIFIED (still UNKNOWN)
+## 4. Memorial Ornament insignia check: RESOLVED, no insignia (David, 2026-11-20)
+
+**RESOLVED:** David confirmed the Memorial Ornament shows no insignia (intel.md "Owner confirmations"). Both listing photos are cleared for use, including in the fallback slideshow. The original check notes are kept below for the record. The filming rule still applies: no seals, emblems or insignia on any piece on camera.
 
 - I tried to download `MemorialOrnamentfront.jpg` and `MemorialOrnamenttop.jpg` to look at them. Both failed because **`cdn.shopify.com` is
   blocked by this session's network proxy** (403, "no rule or network setting allows this host"). WebFetch failed the same way.
 - Shopify Admin data (via the Shopify connector): the product is tagged `hero, Memorial, Military, Ornament`. Both images have **empty alt text**.
   The description ("a heartfelt tribute to your loved one. Personalize with any name ... quality wood") names no branch, seal or emblem.
-- **Result:** nothing in the text points to insignia, but the images were not seen, so the status stays UNKNOWN.
+- **Result:** nothing in the text points to insignia, but the images were not seen, so the status stayed UNKNOWN until David confirmed it (see RESOLVED above).
 - **What to do before use:**
   1. When David films shot 5b, the ornament must carry **no** military seal, branch emblem or insignia. Use a text-only, cross, heart or
      American-flag design that HonorCraft owns.
@@ -123,8 +125,8 @@ About 2.5–3 s per slide, 8–10 slides, 25–30 s total.
 | 1 | Hook: jewelry box, engraved lid | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/il_fullxfull.7871341973_92oa.jpg | 1333×1778, about 3:4, fits portrait well. Overlay: "Why custom gifts need a head start" + "Order by Sun, Dec 13" |
 | 2 | Jewelry box detail | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/il_fullxfull.7871456635_ffgd.jpg | 2000×2000 |
 | 3 | Jewelry box interior or colors | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/il_fullxfull.7823394154_qeap.jpg | 1176×1569. More options in the listing: `il_fullxfull.7871341957_gxlh.jpg`, `il_fullxfull.7823394148_qjl4.jpg`, `il_fullxfull.7871341965_cp6h.jpg`, `il_fullxfull.7823394150_njsv.jpg`, `il_fullxfull.7823394156_6320.jpg` (same folder) |
-| 4 | Memorial Ornament | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/MemorialOrnamentfront.jpg | **HOLD until the insignia check passes (section 4)** |
-| 5 | Memorial Ornament angle | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/MemorialOrnamenttop.jpg | **HOLD, same as slide 4** |
+| 4 | Memorial Ornament | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/MemorialOrnamentfront.jpg | Cleared: David confirmed no insignia (section 4) |
+| 5 | Memorial Ornament angle | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/MemorialOrnamenttop.jpg | Cleared, same as slide 4 |
 | 6 | Baby First Christmas Ornament | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/transparent-Photoroom.jpg | 2048×1536, landscape, so letterbox it. The filename suggests a Photoroom background removal. That is fine on a plain background, but **do not** use an AI-generated scene. If one is used, set aiMedia to true. |
 | 7 | Baby ornament backer card | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/FirstChristmasBacker.png | 1200×1200. Optional. |
 | 8 | Dog Memorial Ornament | https://cdn.shopify.com/s/files/1/0808/4969/9097/files/DogMemBacker.png | 1200×1200. Use this instead of `Dog.png`, which is **553×553 and will look blurry** at 1080 wide. |
@@ -134,7 +136,7 @@ About 2.5–3 s per slide, 8–10 slides, 25–30 s total.
 https://cdn.shopify.com/videos/c/vp/d15a201100c04fcfb48ce9bcb58a605a/d15a201100c04fcfb48ce9bcb58a605a.HD-1080p-2.5Mbps-95257194.mp4
 It is **606×1080**, so it would need upscaling to 1080×1920 and will look soft. I could not view its content because the CDN is blocked. Use it only to fill the gap for the jewelry box beat.
 
-**Fallback weaknesses:** the photo styles do not match, the dog ornament image is low-res, the Memorial Ornament is on hold, and there is no process footage, so hook B
+**Fallback weaknesses:** the photo styles do not match, the dog ornament image is low-res, and there is no process footage, so hook B
 (TikTok and YT) gets weaker. Real footage is strongly preferred.
 
 ---

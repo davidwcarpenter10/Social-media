@@ -23,10 +23,10 @@ Every piece is made to order in Piketon, OH, after you send us your personalizat
 Order by Sunday, Dec 13 for Christmas delivery.
 
 Gifts we're engraving for Christmas:
-- Personalized Leatherette Travel Jewelry Box
-- Baby's First Christmas Ornament
-- Memorial Ornament with custom text
-- Dog Memorial Ornament
+- Personalized Leatherette Travel Jewelry Box, $20
+- Baby's First Christmas Ornament, $15
+- Memorial Ornament with custom text, $15
+- Dog Memorial Ornament, $15
 
 Tap the link in bio for our Etsy shop.
 
@@ -54,12 +54,12 @@ Vertical video, hands only, no faces. A laser engraves a wooden Baby's First Chr
 Note: QA rewrote this on 2026-11-20 to match the visuals.md shot list (shots 1-7) and overlay text (section 3). Re-check it against the final edit if the cut changes.
 
 ## Facts used (from intel.md Owner decisions + Shopify)
-- Featured only: Leatherette Travel Jewelry Box, Baby First Christmas Ornament, Memorial Ornament with custom text, Dog Memorial Ornament. Pet stone and wallet excluded. Prices removed by QA: Shopify prices are not confirmed to match Etsy, where the CTA points.
+- Featured only: Leatherette Travel Jewelry Box, Baby First Christmas Ornament, Memorial Ornament with custom text, Dog Memorial Ornament. Pet stone and wallet excluded. Prices are the Etsy prices David confirmed (Jewelry Box $20, ornaments $15 each; intel.md "Owner confirmations").
 - Order-by wording: "Order by Sunday, Dec 13 for Christmas delivery" (David). No per-item processing days stated.
 - No "Made in USA", no reviews, no scarcity, no deals, no APO/FPO, no insignia. "Engraved in Ohio" / "made to order in Piketon, OH" only.
 
 ## Char count (computed with Python len())
 - Hook: 122 chars (≤ 125)
-- Caption incl. hashtags: 639 / 2,200
+- Caption incl. hashtags: 659 / 2,200
 - Alt text: 807 / 1,000
 - Hashtags: 5 / 5
