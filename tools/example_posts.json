@@ -1,0 +1,18 @@
+{
+  "pack": "example",
+  "aiMedia": false,
+  "posts": [
+    {"platform": "facebook", "accountId": "53000", "scheduledTime": "2026-11-25T12:15:00-05:00",
+     "content": {"text": "He folded that flag for 22 years. Now it has a home. Our laser-engraved flag case, made to order in Piketon. #veteranowned", "mediaUrls": ["https://example.com/reel.mp4"], "firstComment": "Order here: https://honorcraftlw.com/products/example"},
+     "target": {"pageId": "370318706175109", "mediaType": "reel"}},
+    {"platform": "instagram", "accountId": "72147", "scheduledTime": "2026-11-26T11:40:00-05:00",
+     "content": {"text": "22 years of service. One case to hold it all.\n\nComment ENGRAVE for the link.\n\n#honorcraft #flagcase #retirementgift #veteranowned #laserengraving", "mediaUrls": ["https://example.com/reel.mp4"], "altText": "Walnut flag display case with laser-engraved name and years of service."},
+     "target": {"mediaType": "reel", "shareToFeed": true, "coverImageUrl": "https://example.com/cover.jpg"}},
+    {"platform": "tiktok", "accountId": "60345", "scheduledTime": "2026-11-27T19:05:00-05:00",
+     "content": {"text": "Custom engraved flag case for a military retirement gift, cut and engraved in our Ohio shop. Link in bio. #flagcase #retirementgift #veteranowned #laserengraving", "mediaUrls": ["TODO:shot-1"]},
+     "target": {"privacyLevel": "PUBLIC_TO_EVERYONE", "disabledComments": false, "disabledDuet": false, "disabledStitch": false, "isBrandedContent": false, "isYourBrand": true, "isAiGenerated": false}},
+    {"platform": "youtube", "accountId": "50377", "scheduledTime": "2026-11-28T15:10:00-05:00",
+     "content": {"text": "Laser engraving a custom flag case for a military retirement. Link in the pinned comment. #Shorts #laserengraving", "mediaUrls": ["https://example.com/reel.mp4"]},
+     "target": {"title": "Laser Engraved Flag Case | Retirement Gift", "tags": ["flag case", "retirement gift", "laser engraving"], "privacyStatus": "public", "shouldNotifySubscribers": true, "isMadeForKids": false, "containsSyntheticMedia": false, "playlistIds": ["PLzmhjKCSrFwpTAOsA9OMEhkf5Wrs3jIEI"]}}
+  ]
+}
