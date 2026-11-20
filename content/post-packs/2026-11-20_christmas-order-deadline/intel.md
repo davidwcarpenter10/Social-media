@@ -190,3 +190,9 @@ URLs, plus the shop announcement and shipping policy text.
 - **Featured products (only these):** B. Personalized Leatherette Travel Jewelry Box ($20.00), D. Memorial Ornament with custom text ($13.00), E. Baby First Christmas Ornament ($15.00), F. Dog Memorial Ornament ($15.00). Do NOT feature A (Pet Memorial Stone) or C (wallet).
 - **Order-by:** All featured items can be made and delivered for Christmas when ordered by **Sunday, December 13, 2026**. Posts state "Order by Sunday, Dec 13 for Christmas delivery". Do not state per-item processing day counts (still UNKNOWN).
 - **Link / CTA destination:** Etsy shop https://honorcraftlw.etsy.com (use the shop URL, not unverified listing URLs).
+
+## Owner confirmations — David, 2026-11-20 (verified, source: David)
+- All three ornaments (Memorial, Baby First Christmas, Dog Memorial) are live in the Etsy shop. Etsy CTA stands.
+- Memorial Ornament shows **no insignia**. Listing photos cleared for use.
+- **Etsy prices:** Travel Jewelry Box **$20**; ornaments **$15** each (Memorial, Baby First Christmas, Dog Memorial).
+  NOTE: Shopify lists the Memorial Ornament at $13.00 — Etsy price ($15) is what posts use since the CTA points to Etsy. Flag the Shopify/Etsy mismatch to David.
