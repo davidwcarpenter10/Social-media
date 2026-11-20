@@ -1,0 +1,96 @@
+{
+  "pack": "2026-11-20_christmas-order-deadline",
+  "aiMedia": false,
+  "posts": [
+    {
+      "platform": "facebook",
+      "accountId": "53000",
+      "scheduledTime": "2026-11-24T12:15:00-05:00",
+      "content": {
+        "text": "Custom takes time. Order by Sunday, Dec 13 for Christmas delivery. That's the date we can stand behind for every gift below.\n\nHere's why we need the head start. Nothing on this list is sitting on a shelf. Each piece is made to order after you send us your personalization: the name, the date, the message. Then it goes on the laser here in our shop in Piketon, Ohio, gets cleaned up and checked, and is packed and shipped to you.\n\nA few of the gifts we're making this Christmas:\n\n• Personalized Leatherette Travel Jewelry Box. A name, monogram, date or quote laser engraved on the lid. Comes in Light Blue, Burgundy, Seafoam, Blue Matte and Pink.\n• Memorial Ornament with custom text. Wood, engraved with the name of someone you're missing this year.\n• Baby First Christmas Ornament. A wooden keepsake for the newest one in the family.\n• Dog Memorial Ornament. A wooden ornament for the good dog who isn't under the tree this year.\n\nSo here's the plan: pick your piece, send us your details, and order by Sunday, Dec 13 for Christmas delivery. We'll take it from there.\n\nLink to our Etsy shop in the first comment 👇\n\n#VeteranOwned #CustomGifts #ChristmasGifts",
+        "mediaUrls": [
+          "TODO:master-video"
+        ],
+        "firstComment": "Shop all of our custom Christmas gifts here. Order by Sunday, Dec 13 for Christmas delivery: https://honorcraftlw.etsy.com"
+      },
+      "target": {
+        "pageId": "370318706175109",
+        "mediaType": "reel"
+      }
+    },
+    {
+      "platform": "instagram",
+      "accountId": "72147",
+      "scheduledTime": "2026-11-25T19:25:00-05:00",
+      "content": {
+        "text": "The paper comes off.\nThey read the name, the date, the words you chose.\nThe gift they keep long after the tree comes down.\n\nThat moment starts with your order.\nEvery piece is made to order in Piketon, OH, after you send us your personalization.\n\nOrder by Sunday, Dec 13 for Christmas delivery.\n\nGifts we're engraving for Christmas:\n- Personalized Leatherette Travel Jewelry Box\n- Baby's First Christmas Ornament\n- Memorial Ornament with custom text\n- Dog Memorial Ornament\n\nTap the link in bio for our Etsy shop.\n\nVeteran-owned. Engraved in Ohio.\n- David & Lisa\n\n#honorcraft #laserengraving #personalizedgifts #christmasgifts #veteranowned",
+        "mediaUrls": [
+          "TODO:master-video"
+        ],
+        "altText": "Vertical video, hands only, no faces. A laser engraves a wooden Baby's First Christmas ornament under the text: Why custom gifts need a head start. Order by Sun, Dec 13. A sample name is typed into the laser software on a computer screen. The laser engraves the lid of a leatherette travel jewelry box. Hands brush residue off a wooden dog memorial ornament. The finished pieces are shown one by one: the jewelry box with its engraved lid, unzipped to show the ring rolls; a wooden memorial ornament; the Baby's First Christmas ornament; and the dog memorial ornament. Hands open tissue paper around an ornament and hang it on a lit Christmas tree. The last frame shows all four pieces together with the text: Order by Sun, Dec 13 for Christmas delivery. HonorCraft on Etsy. Veteran-owned. Engraved in Ohio."
+      },
+      "target": {
+        "mediaType": "reel",
+        "shareToFeed": true,
+        "coverImageUrl": "TODO:cover"
+      }
+    },
+    {
+      "platform": "tiktok",
+      "accountId": "60345",
+      "scheduledTime": "2026-11-27T19:05:00-05:00",
+      "content": {
+        "text": "Personalized Christmas gift? Every custom engraved gift is made to order in Piketon, OH: your name, laser engraving, hand cleanup, packing. Order by Sunday, Dec 13 for Christmas delivery. Jewelry boxes and ornaments. Link in bio.\n\n#laserengraving #personalizedgifts #christmasgifts #veteranowned",
+        "mediaUrls": [
+          "TODO:master-video"
+        ]
+      },
+      "target": {
+        "privacyLevel": "PUBLIC_TO_EVERYONE",
+        "disabledComments": false,
+        "disabledDuet": false,
+        "disabledStitch": false,
+        "isBrandedContent": false,
+        "isYourBrand": true,
+        "isAiGenerated": false
+      }
+    },
+    {
+      "platform": "youtube",
+      "accountId": "50377",
+      "scheduledTime": "2026-11-29T18:20:00-05:00",
+      "content": {
+        "text": "Every custom Christmas gift starts with your name, date or message. We set up the file, run the laser, clean up the piece and pack it in our veteran-owned shop in Piketon, Ohio. That takes real time, so order by Sunday, Dec 13 for Christmas delivery. Personalized ornaments and laser-engraved travel jewelry boxes are in our Etsy shop. Link in the pinned comment.\n\n#Shorts #ChristmasGifts #LaserEngraving",
+        "mediaUrls": [
+          "TODO:master-video"
+        ]
+      },
+      "target": {
+        "title": "Custom Christmas Gift: How Long It Really Takes",
+        "tags": [
+          "custom christmas gift",
+          "personalized christmas gift",
+          "laser engraving",
+          "custom engraved gift",
+          "personalized ornament",
+          "memorial ornament",
+          "baby first christmas ornament",
+          "dog memorial ornament",
+          "personalized jewelry box",
+          "travel jewelry box",
+          "christmas order deadline",
+          "christmas gift ideas",
+          "veteran owned business",
+          "laser engraved gifts"
+        ],
+        "privacyStatus": "public",
+        "shouldNotifySubscribers": true,
+        "isMadeForKids": false,
+        "containsSyntheticMedia": false,
+        "playlistIds": [
+          "PLzmhjKCSrFwpTAOsA9OMEhkf5Wrs3jIEI"
+        ]
+      }
+    }
+  ]
+}

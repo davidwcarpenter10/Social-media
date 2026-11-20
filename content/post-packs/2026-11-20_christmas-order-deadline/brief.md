@@ -1,4 +1,4 @@
-Status: BRIEF
+Status: QA-PASS
 Product: Christmas order-by roundup, using 2–4 featured items from the HonorCraft Etsy shop. Which items, plus prices, personalization options and processing times, come from intel.md (product-intel). Link: https://honorcraftlw.etsy.com
 Audience: Civilian gift buyers (primary). Military / veteran families (secondary: gifts for a veteran, retiree, or a service member home for the holidays).
 Occasion / gift moment: Christmas, Fri 2026-12-25. The window opens over Thanksgiving week, Black Friday (11/27) and Cyber Monday (11/30), when gift buyers start shopping.

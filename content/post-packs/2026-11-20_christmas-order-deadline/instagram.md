@@ -2,7 +2,7 @@
 
 Status: DRAFT · Angle: C (Christmas-morning reveal) · Format: Reel 9:16 (mediaType reel, shareToFeed true, coverImageUrl TODO:cover)
 Scheduled: Wed 2026-11-25 7:25 PM ET (2026-11-25T19:25:00-05:00) · accountId 72147
-Payload entry: `posts.instagram.json` (merge into posts.json; posts.json not edited by this agent)
+Payload entry: `posts.json` (instagram)
 
 ## Hook (first 125 chars, shows before "more")
 ```
@@ -23,12 +23,12 @@ Every piece is made to order in Piketon, OH, after you send us your personalizat
 Order by Sunday, Dec 13 for Christmas delivery.
 
 Gifts we're engraving for Christmas:
-- Personalized Leatherette Travel Jewelry Box, $20.00
-- Baby's First Christmas Ornament, $15.00
-- Memorial Ornament with custom text, $13.00
-- Dog Memorial Ornament, $15.00
+- Personalized Leatherette Travel Jewelry Box
+- Baby's First Christmas Ornament
+- Memorial Ornament with custom text
+- Dog Memorial Ornament
 
-Comment ENGRAVE for the link, or tap the link in bio for our Etsy shop.
+Tap the link in bio for our Etsy shop.
 
 Veteran-owned. Engraved in Ohio.
 - David & Lisa
@@ -37,8 +37,8 @@ Veteran-owned. Engraved in Ohio.
 ```
 
 ## CTA
-"Comment ENGRAVE for the link, or tap the link in bio for our Etsy shop." No URL in caption (IG links not clickable).
-Destination for bio link / ENGRAVE auto-reply: https://honorcraftlw.etsy.com (owner decision). Requires the ENGRAVE comment-to-DM automation to be live in Blotato; if not, scheduler/QA should cut to "link in bio" only.
+"Tap the link in bio for our Etsy shop." No URL in caption (IG links not clickable).
+Bio link destination: https://honorcraftlw.etsy.com (owner decision). QA cut "Comment ENGRAVE for the link" on 2026-11-20 because the ENGRAVE comment-to-DM automation does not exist in Blotato yet. Optional later: with David's OK, set up the ENGRAVE automation (`blotato_create_automation`) and add the line back.
 
 ## Hashtags (5 / max 5)
 1. #honorcraft (brand)
@@ -49,17 +49,17 @@ Destination for bio link / ENGRAVE auto-reply: https://honorcraftlw.etsy.com (ow
 
 ## Alt text
 ```
-Vertical video. Hands-only shots, no faces. Hands tear red and green wrapping paper off a gift box and lift out a small zippered leatherette travel jewelry box with a name laser engraved on the lid. Hands open a gift box holding a wooden Christmas ornament engraved with a name and the words Baby's First Christmas. A wooden memorial ornament engraved with a name hangs on a lit Christmas tree, followed by a wooden dog memorial ornament. On-screen text reads: Order by Sunday, Dec 13 for Christmas delivery. Closing frame shows the HonorCraft name.
+Vertical video, hands only, no faces. A laser engraves a wooden Baby's First Christmas ornament under the text: Why custom gifts need a head start. Order by Sun, Dec 13. A sample name is typed into the laser software on a computer screen. The laser engraves the lid of a leatherette travel jewelry box. Hands brush residue off a wooden dog memorial ornament. The finished pieces are shown one by one: the jewelry box with its engraved lid, unzipped to show the ring rolls; a wooden memorial ornament; the Baby's First Christmas ornament; and the dog memorial ornament. Hands open tissue paper around an ornament and hang it on a lit Christmas tree. The last frame shows all four pieces together with the text: Order by Sun, Dec 13 for Christmas delivery. HonorCraft on Etsy. Veteran-owned. Engraved in Ohio.
 ```
-Note: written against the brief's angle-C shot plan (hands-only unwrap, the four featured items). Visual-director/QA must reconcile it with the final cut and visuals.md (wrap colors, which items appear, overlay wording).
+Note: QA rewrote this on 2026-11-20 to match the visuals.md shot list (shots 1-7) and overlay text (section 3). Re-check it against the final edit if the cut changes.
 
 ## Facts used (from intel.md Owner decisions + Shopify)
-- Featured only: Leatherette Travel Jewelry Box $20.00; Baby First Christmas Ornament $15.00; Memorial Ornament with custom text $13.00; Dog Memorial Ornament $15.00. Pet stone and wallet excluded.
+- Featured only: Leatherette Travel Jewelry Box, Baby First Christmas Ornament, Memorial Ornament with custom text, Dog Memorial Ornament. Pet stone and wallet excluded. Prices removed by QA: Shopify prices are not confirmed to match Etsy, where the CTA points.
 - Order-by wording: "Order by Sunday, Dec 13 for Christmas delivery" (David). No per-item processing days stated.
 - No "Made in USA", no reviews, no scarcity, no deals, no APO/FPO, no insignia. "Engraved in Ohio" / "made to order in Piketon, OH" only.
 
 ## Char count (computed with Python len())
 - Hook: 122 chars (≤ 125)
-- Caption incl. hashtags: 704 / 2,200
-- Alt text: 549 / 1,000
+- Caption incl. hashtags: 639 / 2,200
+- Alt text: 807 / 1,000
 - Hashtags: 5 / 5

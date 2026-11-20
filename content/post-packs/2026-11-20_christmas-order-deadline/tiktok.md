@@ -10,6 +10,8 @@ isAiGenerated: false (pack aiMedia = false)
 **Why custom gifts need a head start**  (7 words)
 
 ## Text beats (overlays, keep clear of top 220 px / bottom 380 px)
+
+**QA note (2026-11-20):** all four platforms share one master, so the burned-in overlays are the ones in visuals.md section 3. Those are final. The table below is the writer's original draft and is kept for reference only. The hook ("Why custom gifts need a head start") and the end card ("Order by Sun, Dec 13 / for Christmas delivery") are the same in both. The "This is why we can't make it on December 23rd" line is not in the master; the editor can add it at about 20-25 s if there is room.
 | Time | Overlay | Shot it rides on |
 |---|---|---|
 | 0-1 s | Why custom gifts need a head start | laser already running (motion in first second) |
@@ -34,7 +36,7 @@ Search keywords covered: personalized Christmas gift, custom engraved gift, lase
 "Link in bio" (bio link should point to the Etsy shop https://honorcraftlw.etsy.com). No links in caption.
 
 ## Featured products (owner decision, only these)
-Personalized Leatherette Travel Jewelry Box ($20.00), Memorial Ornament with custom text ($13.00), Baby First Christmas Ornament ($15.00), Dog Memorial Ornament ($15.00). Prices not stated in TikTok copy.
+Personalized Leatherette Travel Jewelry Box ($20.00), Memorial Ornament with custom text ($13.00), Baby First Christmas Ornament ($15.00), Dog Memorial Ornament ($15.00). Prices not stated in TikTok copy (Etsy prices UNKNOWN).
 
 ## Guardrail notes
 - Order-by uses the David-confirmed wording; no processing day counts, no scarcity, no deals, no "Made in USA", no reviews.
@@ -48,4 +50,4 @@ Personalized Leatherette Travel Jewelry Box ($20.00), Memorial Ornament with cus
 - Hashtag count: 4
 - Hook word count: 7 (limit 8)
 
-posts.json entry written to `posts.tiktok.json` (orchestrator merges; posts.json not touched).
+Payload entry: `posts.json` (tiktok).

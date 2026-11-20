@@ -45,6 +45,8 @@ Count: 232 chars.
 "Link in the pinned comment." The link is the Etsy shop https://honorcraftlw.etsy.com (owner decision). Shorts links are not clickable, so the description only points to the pinned comment.
 
 ## Suggested on-screen text beats (for visual-director; different cut from TikTok)
+
+**QA note (2026-11-20):** visuals.md uses one master with a single overlay set (section 3), opening on "Why custom gifts need a head start". The beats below apply only if the editor makes the optional YT alternate cut (visuals.md section 1, opening on the lineup). If not, the Short uses the master overlays and stands apart from TikTok through its title, description and pinned comment.
 1. 0-1s: "How long does a custom Christmas gift take?"
 2. "Your name goes into the file"
 3. "The laser runs"
@@ -58,4 +60,4 @@ Count: 232 chars.
 - No prices in YouTube copy: the listed prices are from Shopify and the Etsy prices are UNKNOWN, while the CTA points to Etsy. The products in D, E and F are not confirmed on Etsy (intel UNKNOWN #5). David made the call to link the Etsy shop. Confirm those ornaments are listed there before publishing.
 - No "Made in USA", no scarcity, no deal claims, no reviews, no APO/FPO. "Veteran-owned" only.
 - containsSyntheticMedia: false (per orchestrator; pack aiMedia). Media is `TODO:master-video` until footage exists.
-- The entry is written to `posts.youtube.json` (posts.json is not touched, per orchestrator).
+- Payload entry: `posts.json` (youtube).

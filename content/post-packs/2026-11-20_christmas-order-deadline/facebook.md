@@ -17,10 +17,10 @@ Here's why we need the head start. Nothing on this list is sitting on a shelf. E
 
 A few of the gifts we're making this Christmas:
 
-• Personalized Leatherette Travel Jewelry Box, $20.00. A name, monogram, date or quote laser engraved on the lid. Comes in Light Blue, Burgundy, Seafoam, Blue Matte and Pink.
-• Memorial Ornament with custom text, $13.00. Wood, engraved with the name of someone you're missing this year.
-• Baby First Christmas Ornament, $15.00. A wooden keepsake for the newest one in the family.
-• Dog Memorial Ornament, $15.00. A wooden ornament for the good dog who isn't under the tree this year.
+• Personalized Leatherette Travel Jewelry Box. A name, monogram, date or quote laser engraved on the lid. Comes in Light Blue, Burgundy, Seafoam, Blue Matte and Pink.
+• Memorial Ornament with custom text. Wood, engraved with the name of someone you're missing this year.
+• Baby First Christmas Ornament. A wooden keepsake for the newest one in the family.
+• Dog Memorial Ornament. A wooden ornament for the good dog who isn't under the tree this year.
 
 So here's the plan: pick your piece, send us your details, and order by Sunday, Dec 13 for Christmas delivery. We'll take it from there.
 
@@ -38,12 +38,12 @@ Shop all of our custom Christmas gifts here. Order by Sunday, Dec 13 for Christm
 3: #VeteranOwned #CustomGifts #ChristmasGifts
 
 ## Char count
-- Caption: 1191 characters (Reel limit 2,200), 209 words. Computed with python3 len().
+- Caption: 1159 characters (Reel limit 2,200), 205 words. Computed with python3 len() (after QA removed prices, 2026-11-20).
 - Hook line: 124 characters. "Custom takes time. Order by Sunday, Dec 13 for Christmas delivery." is the first 66 characters.
 - firstComment: 122 characters.
 
 ## Fact sources (intel.md "Owner decisions" plus section 2)
-- Featured items are only B, D, E and F, as David chose. Prices are exact: $20.00, $13.00, $15.00, $15.00.
+- Featured items are only B, D, E and F, as David chose. Prices were removed by QA (2026-11-20): the Shopify prices ($20.00, $13.00, $15.00, $15.00) are not confirmed to match Etsy, where the CTA points (guardrail #6). Prices can go back in once David confirms the Etsy prices.
 - Jewelry box colors and lid engraving (name, monogram, date, quote) come from the listing text.
 - The memorial ornament is listed as wood with "any name". The Baby and Dog ornaments are listed as wooden and personalized by email. Their personalization fields are UNKNOWN, so the copy does not name any fields.
 - Order-by wording follows the owner decision: "Order by Sunday, Dec 13 for Christmas delivery". The copy gives no per-item processing days.
